@@ -17,8 +17,7 @@ You can try out the live demo of the todo list application [here](<insert live d
 
 ## Usage
 
-1. Clone the repository to your local machine:
-
+1. Clone the repository to your local machine: https://github.com/GillyfromSouth/To-do-list.git
 
 2. Open the `index.html` file in your web browser to view the todo list application.
 
